@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 308367713 - Alon Shalom
+Second Student Details: 203287891 - Elad Samocha 
+Delivery Date.........: 25 - May- 2017
+Delivered In Delay....: Yes
+Delay Reason..........: Preparation for a test took time away from the assignment
+Visual Studio Version.: 2017
+Comments..............: 
+========================End Exercise Checking Report========================
